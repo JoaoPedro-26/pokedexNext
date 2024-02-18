@@ -31,3 +31,22 @@ body {
     text-wrap: balance;
   }
 }
+
+.content {
+	display: flex;
+  flex-direction: column;
+}
+
+.menu {
+  background-color: #000000;
+}
+
+.menuContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  color: #ffff;
+  font-size: 24px;
+  gap: 18px;
+}
