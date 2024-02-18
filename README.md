@@ -7,7 +7,7 @@ Typescript
 Estilização CSS (Tailwind)
 Context API
 
-#Clone o projeto 
+# Clone o projeto 
 $ git clone 'caminho da pasta em que quer fazer o clone'
 
 # Instale as dependências.
